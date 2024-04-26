@@ -10,5 +10,6 @@ Después, el notebook Songs - APIS (añadidas), en el que se empieza a usar la h
 Seguido a este notebook, tenemos otro llamado Songs - APIS (genre), en el que añadimos las últimas variables extraídas a través de la API. En este notebook añadimos las variables de género musical y álbum al que pertenece la canción.
 Por último, el notebook Songs Conclusions incluye todo el código referente a las conclusiones a las que se han llegado en este estudio.
 
+Link a la presentación: https://docs.google.com/presentation/d/1K4insxRWLfyyreYE2Rb59E-5q-QuP--iT6rO2AXPCEs/edit?usp=sharing 
 
 La autoría del proyecto pertenece a Natalia Labrador.
